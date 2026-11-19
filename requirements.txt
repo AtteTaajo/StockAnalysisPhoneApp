@@ -1,0 +1,8 @@
+yfinance>=0.2.65
+pandas>=2.2
+numpy>=2.1
+matplotlib>=3.9
+scikit-learn>=1.6
+statsmodels>=0.15
+jupyter
+nbconvert
